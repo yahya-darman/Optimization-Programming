@@ -1,4 +1,4 @@
-#Optimization Programming
+# Optimization Programming
 ## GitHub Repository for Linear Programming, Non-Linear Programming, and Integer Programming
 This GitHub repository contains implementations and examples of linear programming, non-linear programming, and integer programming algorithms. The repository includes separate Jupyter Notebook files for each type of programming with specific use cases and examples.
 
